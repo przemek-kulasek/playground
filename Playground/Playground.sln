@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Codility", "Codility", "{CF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryGap", "src\BinaryGap\BinaryGap.csproj", "{8717A81B-2D70-4757-AD25-00CEBBF802DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyclicRotation", "src\CyclicRotation\CyclicRotation.csproj", "{97647D97-011C-4A99-B9FE-DD2867E1DDB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE} = {CF4AA0E1-5B14-4E95-BC02-E1EE798965A5}
+		{97647D97-011C-4A99-B9FE-DD2867E1DDB1} = {CF4AA0E1-5B14-4E95-BC02-E1EE798965A5}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97647D97-011C-4A99-B9FE-DD2867E1DDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97647D97-011C-4A99-B9FE-DD2867E1DDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97647D97-011C-4A99-B9FE-DD2867E1DDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97647D97-011C-4A99-B9FE-DD2867E1DDB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
