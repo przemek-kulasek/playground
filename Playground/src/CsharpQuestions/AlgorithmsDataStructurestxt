@@ -1,0 +1,65 @@
+Arrays and Strings:
+1. How can you find the maximum subarray sum using Kadane's algorithm?
+2. Explain how you can rotate an array to the right by k steps.
+3. Describe an algorithm to find all pairs in an array that sum up to a given target.
+4. How would you implement a function to check if a string is a palindrome?
+5. What is the significance of the sliding window technique, and in what scenarios is it useful?
+
+Linked Lists:
+1. Explain the difference between singly linked lists and doubly linked lists.
+2. How can you reverse a linked list iteratively and recursively?
+3. Describe an algorithm to detect if a linked list has a cycle.
+4. What is the "runner" technique, and how can it be used to find the middle of a linked list?
+5. How can you merge two sorted linked lists into a single sorted linked list?
+
+Stacks and Queues:
+1. Describe the implementation of a stack using an array and its associated time complexities.
+2. How can you implement a queue using two stacks and achieve the FIFO behavior?
+3. Explain the concept of a monotonic stack and its applications.
+4. What is the "sliding window maximum" problem, and how can you solve it using a deque?
+
+Trees and Binary Search Trees:
+1. How can you traverse a binary tree using in-order, pre-order, and post-order traversals?
+2. Describe the properties of a binary search tree (BST) and how they ensure efficient searching.
+3. Explain the process of constructing a balanced binary search tree from a sorted array.
+4. What is the lowest common ancestor (LCA) of two nodes in a binary tree, and how can you find it?
+5. How can you determine if a binary tree is a valid binary search tree?
+
+Graphs:
+1. Explain the difference between directed and undirected graphs.
+2. How can you perform depth-first search (DFS) and breadth-first search (BFS) on a graph?
+3. Describe Dijkstra's algorithm and its use in finding the shortest path in a weighted graph.
+4. What is a topological sort, and how can you perform it on a directed acyclic graph (DAG)?
+5. Explain the concept of a minimum spanning tree (MST) and how Kruskal's algorithm works.
+
+Sorting and Searching:
+1. Describe the quicksort algorithm and its average-case time complexity.
+2. How does the merge sort algorithm work, and what is its time complexity?
+3. Explain the binary search algorithm and its time complexity.
+4. What is the "two-pointer" technique, and how can you use it for problems like finding a pair with a given sum?
+5. How can you find the kth largest element in an unsorted array using a variation of quicksort?
+
+Dynamic Programming:
+1. What is dynamic programming, and when is it applicable in solving problems?
+2. Describe the concept of overlapping sub-problems and optimal substructure in dynamic programming.
+3. How can you find the longest common subsequence (LCS) of two strings using dynamic programming?
+4. Explain the knapsack problem and how it can be solved using dynamic programming.
+5. What is the Fibonacci sequence, and how can you calculate the nth Fibonacci number using dynamic programming?
+
+Greedy Algorithms:
+1. Describe the greedy strategy and when it can be applied to solve optimization problems.
+2. Explain the coin change problem and how a greedy algorithm may not always provide an optimal solution.
+3. How can you solve the activity selection problem using a greedy approach?
+4. What is Huffman coding, and how does it achieve efficient data compression?
+
+Bit Manipulation:
+1. Describe the bitwise AND, OR, XOR, and NOT operations.
+2. How can you check if a number is a power of two using bitwise operations?
+3. Explain the concept of the two's complement representation and how it's used in binary arithmetic.
+4. How can you count the number of set bits (1s) in an integer using bitwise operations?
+
+Recursion and Backtracking:
+1. What is recursion, and how does it work in solving problems by dividing them into smaller subproblems?
+2. Describe the Tower of Hanoi problem and how it can be solved recursively.
+3. Explain backtracking and its application in solving problems like the N-Queens puzzle.
+4. How can you generate all possible permutations of a string using recursion and backtracking?
