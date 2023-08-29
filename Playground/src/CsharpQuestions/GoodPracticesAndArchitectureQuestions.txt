@@ -1,0 +1,40 @@
+1. What are SOLID principles, and how do they contribute to writing maintainable and scalable code?
+2. How does the Single Responsibility Principle (SRP) guide the design of classes and methods?
+3. Explain the Open/Closed Principle (OCP) and how it promotes extensibility without modifying existing code.
+4. Describe the Liskov Substitution Principle (LSP) and how it ensures substitutability of derived types.
+5. What is the Interface Segregation Principle (ISP), and how does it encourage leaner and more focused interfaces?
+6. How does the Dependency Inversion Principle (DIP) facilitate loose coupling and dependency injection?
+7. What is DRY (Don't Repeat Yourself) principle, and how can you avoid code duplication in practice?
+8. Explain the importance of writing self-documenting code and providing clear comments when necessary.
+9. How can you ensure consistent code formatting and style across a team using tools and conventions?
+10. Describe the benefits of using version control systems like Git for collaborative development.
+11. What are code smells, and how can you identify and address them in your codebase?
+12. Explain the concept of code refactoring and its significance in maintaining a healthy codebase.
+13. How do unit tests contribute to code quality, and what are some best practices for writing effective unit tests?
+14. Describe the characteristics of clean code and how adherence to clean code principles enhances development.
+15. How can you improve code readability by using meaningful variable and method names?
+16. What is defensive programming, and how can you incorporate it into your development process?
+17. Explain the concept of "fail fast" and its role in identifying issues as early as possible during development.
+18. How do you handle exceptions and errors effectively while maintaining code reliability?
+19. Describe the difference between monolithic and microservices architectures, including their advantages and challenges.
+20. What is Domain-Driven Design (DDD), and how can it guide the architecture of complex applications?
+21. Explain the concept of layered architecture, and how does it contribute to separation of concerns?
+22. Describe the advantages and drawbacks of using a service-oriented architecture (SOA) in your projects.
+23. How can you implement a hexagonal architecture (ports and adapters) to achieve application flexibility?
+24. Explain the role of API gateways in microservices architecture and how they manage communication.
+25. Describe the CQRS (Command Query Responsibility Segregation) pattern and its benefits.
+26. How does Event Sourcing work, and what advantages does it offer in terms of system resilience?
+27. Explain the concept of Event-Driven Architecture (EDA) and its relevance in building responsive systems.
+28. Describe the differences between synchronous and asynchronous communication in distributed systems.
+29. What are distributed transactions, and what challenges do they pose in distributed architectures?
+30. Explain the principles of idempotency and eventual consistency in distributed systems.
+31. Describe the concept of data replication in databases and the trade-offs between consistency and availability.
+32. What is the CAP theorem, and how does it impact the design of distributed systems?
+33. Explain the concept of sharding in database design and its relevance for scalability.
+34. How do you ensure data integrity and data validation across microservices in a distributed system?
+35. Describe the role of API documentation and specifications (like OpenAPI) in maintaining a well-structured architecture.
+36. How can you implement caching strategies to enhance performance in a distributed system?
+37. Explain how load balancing and auto-scaling contribute to achieving high availability.
+38. Describe the benefits and challenges of using containers (e.g., Docker) in your software architecture.
+39. How can you ensure security and authorization in a distributed system, especially when using microservices?
+40. Explain the concept of service discovery and its importance in dynamically locating services in a microservices environment.

@@ -1,0 +1,46 @@
+1. Explain the concept of Common Language Runtime (CLR) in the .NET Framework.
+2. How does the .NET Standard address cross-platform compatibility in .NET libraries?
+3. Describe the role of Global Assembly Cache (GAC) in the .NET Framework.
+4. What is the Common Type System (CTS) in the context of the CLR?
+5. Explain the Just-In-Time (JIT) compilation process in the CLR.
+6. What is managed code, and how does the CLR manage memory for managed objects?
+7. How does garbage collection work in the CLR, and what are its benefits?
+8. Describe the differences between value types and reference types in the CLR.
+9. What is an assembly in .NET, and what are its components?
+10. How does strong naming of assemblies contribute to their versioning and security?
+11. Explain private and shared assemblies in .NET deployment.
+12. What is the purpose of the Global Assembly Cache (GAC) in .NET?
+13. How can you manage versioning and updates for deployed .NET assemblies?
+14. Describe the Common Language Specification (CLS) and its role in the CLI.
+15. Explain the importance of the Common Intermediate Language (CIL) in the CLI.
+16. What is the Portable Executable (PE) format used in .NET assemblies?
+17. How does the CLI facilitate language interoperability in the .NET ecosystem?
+18. Describe the process of language-specific compilation to CIL code.
+19. Explain the concepts of boxing and unboxing in the .NET type system.
+20. What is reflection in .NET, and how can you use it to inspect and manipulate types at runtime?
+21. Describe the attributes in .NET and their role in adding metadata to types and members.
+22. How does late binding using reflection differ from early binding in .NET?
+23. What is the Dynamic Language Runtime (DLR) in .NET, and how does it support dynamic languages?
+24. Describe the role of the Code Access Security (CAS) policy in the CLR.
+25. Explain how the CLR handles exceptions and implements structured exception handling.
+26. What is the AppDomain in the CLR, and how does it isolate and manage application processes?
+27. How does the Type Loader component of the CLR handle loading and resolving types?
+28. Explain the concept of role-based security and how it's implemented in .NET applications.
+29. What is Code Access Security (CAS) in .NET, and how does it provide granular permissions?
+30. Describe the differences between declarative security and imperative security in .NET.
+31. How can you secure .NET assemblies using digital signatures and strong naming?
+32. Explain the role of the Security Transparent, Security Critical, and Security Safe Critical levels.
+33. Describe the generational garbage collection model used in the CLR.
+34. How does the garbage collector determine which objects are eligible for collection?
+35. Explain the significance of the Large Object Heap (LOH) and its management by the garbage collector.
+36. What are the benefits and drawbacks of using Finalizers (destructors) in managed code?
+37. How can you influence garbage collection behavior using the GC class in .NET?
+38. Describe the hierarchy of exception classes in .NET, and explain the difference between checked and unchecked exceptions.
+39. What is the purpose of the try, catch, finally, and throw statements in exception handling?
+40. How can you create custom exception classes to represent application-specific errors?
+41. Explain the role of the Trace and Debug classes in .NET for logging and diagnostics.
+42. What are threads, and how does the .NET Framework support multi-threading?
+43. Explain the differences between foreground and background threads in .NET.
+44. How can you use the Thread class to create and manage threads in a .NET application?
+45. Describe the purpose of thread synchronization mechanisms like locks, mutexes, and semaphores.
+46. How does the Task Parallel Library (TPL) in .NET simplify asynchronous and parallel programming?
