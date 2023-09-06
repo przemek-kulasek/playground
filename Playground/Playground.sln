@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpQuestions", "src\Csha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingInteger", "src\MissingInteger\MissingInteger.csproj", "{3AF05D70-DADF-4E4B-8F7B-5B291A360120}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingCars", "src\PassingCars\PassingCars.csproj", "{46893257-B19A-4D43-896C-D0E291A5B140}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,7 @@ Global
 		{19A1722E-D348-4BD8-B571-CE690822FAB8} = {CF4AA0E1-5B14-4E95-BC02-E1EE798965A5}
 		{5AB81888-1784-46C7-AF8A-840276B426F3} = {78736E10-DA8F-48C7-93AA-AD70A667969F}
 		{3AF05D70-DADF-4E4B-8F7B-5B291A360120} = {CF4AA0E1-5B14-4E95-BC02-E1EE798965A5}
+		{46893257-B19A-4D43-896C-D0E291A5B140} = {CF4AA0E1-5B14-4E95-BC02-E1EE798965A5}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{8717A81B-2D70-4757-AD25-00CEBBF802DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -89,5 +92,9 @@ Global
 		{3AF05D70-DADF-4E4B-8F7B-5B291A360120}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AF05D70-DADF-4E4B-8F7B-5B291A360120}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AF05D70-DADF-4E4B-8F7B-5B291A360120}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46893257-B19A-4D43-896C-D0E291A5B140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46893257-B19A-4D43-896C-D0E291A5B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46893257-B19A-4D43-896C-D0E291A5B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46893257-B19A-4D43-896C-D0E291A5B140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
