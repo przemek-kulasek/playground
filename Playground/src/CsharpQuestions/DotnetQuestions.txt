@@ -1,4 +1,28 @@
 1. Explain the concept of Common Language Runtime (CLR) in the .NET Framework.
+
+It is responsible for executing and managing .NET applications. It serves runtime environment.
+- Execution of managed code, executes after program has been compiled into IL (MSIL, CIL) code. IL code is stored in dll or exe files.
+- Just-In-Time (JIT) compilation, CLR uses JIT to convert IL code into native machine code specific to OS, occurs dynamically at runtime
+- Memory management, CLR includes Garbage Collector (GC) that automatically manages memory
+- Exception handling, try-catch-finally
+- Security
+    * CAS (Code access security) - controls what code can do and what resources it can access
+    * Roles based security - developers can assign specific roles and permission to suer groups.
+    * Evidence-Based security - examines evidence such as the code's digital signature, its source, and the URL from which it was downloaded to determine the code's trustworthiness
+    * Verification and Validation - verification techniques to ensure that IL code is type-safe and does not violate memory safety rules
+    * Strong name signing - Assemblies can be signed with a strong name, which consists of a public key token and a digital signature. This makes it difficult for malicious parties to tamper with or replace assemblies.
+    * Code access permission - Developers can specify their code's permission requirements in the application's configuration files
+    * Assembly isolation - Assemblies loaded into the CLR run in isolated application domains, which provide process-level isolation.
+    * Sandboxing - The CLR allows you to create sandboxed environments where code can run with restricted permissions. This is commonly used for hosting untrusted code, such as plugins, in a secure manner.
+    * Running unmanaged code - unmanaged code can only access managed code through well-defined interop mechanisms, which are subject to security checks
+    * Custom security policies - Administrators can define custom security policies based on the organization's specific security requirements
+    * Security Transparency - developers should annotate their code with security attributes to explicitly declare their security intentions   
+- CTS and metadata, interaction between different .NET languages, stores metadata about types, methods and other elements within assemblies enabling reflection.
+- Assembly loading and versioning, ensures that the correct version of an assembly is use and resolves dependencies between assemblies
+- Interoperability, integrate legacy code and external libraries written in C, C++ and COM components
+- Language independent, C#, VB.NET, F#, C++/CLI, IronPython
+- Debugging and profiling
+
 2. How does the .NET Standard address cross-platform compatibility in .NET libraries?
 3. Describe the role of Global Assembly Cache (GAC) in the .NET Framework.
 4. What is the Common Type System (CTS) in the context of the CLR?
